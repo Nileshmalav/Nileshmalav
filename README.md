@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://nileshmalav.co](https://nileshmalav.co)
+- 👨‍💻 All of my projects are available at [https://inilesh.co](https://nileshmalav.co)
 
 - 💬 Ask me about **Python Django, Flask**
 
