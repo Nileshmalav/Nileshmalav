@@ -16,9 +16,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=nileshmalav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Current GitHub Stats 📊
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=nileshmalav&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&include_all_commits=true)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 ---
+<div align="center">
+[![Nilesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nileshmalav7&theme=xcode)](https://github.com/nileshmalav) <br>
+</div>
 <p align="center">
 <img src="https://raw.githubusercontent.com/nileshmalav/nileshmalav/output/github-contribution-grid-snake.svg">
 </p>
