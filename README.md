@@ -20,7 +20,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=nileshmalav&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&include_all_commits=true)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 ---
-[![Nilesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nileshmalav&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Nilesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nileshmalav&bg_color=24013B&color=EBE2FF&line=EBE2FF&point=EBE2FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nileshmalav/nileshmalav/output/github-contribution-grid-snake.svg">
