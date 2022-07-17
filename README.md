@@ -20,7 +20,7 @@
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 ---
 <p align="center">
-<img src="https://github.com/nileshmalav/nileshmalav/blob/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/nileshmalav/nileshmalav/output/github-contribution-grid-snake.svg">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=nileshmalav&pretty=true)](https://github-visitor-counter-pro.vercel.app)
