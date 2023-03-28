@@ -1,5 +1,5 @@
 # 💫 About Me:
--🌱 I’m currently learning **Data Structure and Algorithms, Machine Learning**<br><br>- 👨‍💻 All of my projects are available at [https://www.inilesh.co](https://www.inilesh.co)<br><br>- 💬 Ask me about **Python Django, Flask**<br><br>- 📫 How to reach me **nileshmalav2020@gmail.com**
+-🌱 I’m currently learning **Data Structure and Algorithms, Machine Learning**<br><br>- 👨‍💻 All of my projects are available at [https://www.inilesh.co](https://wwhttps://www.nileshm.co/)<br><br>- 💬 Ask me about **Python Django, Flask**<br><br>- 📫 How to reach me **nileshmalav2020@gmail.com**
 
 
 ## 🌐 Socials:
